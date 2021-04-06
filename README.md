@@ -3,7 +3,7 @@
   
  :woman_technologist: I'm Jr UI/UX Design and Jr Front-end web developer
  
- :scroll: IT: Web Development :computer: Bachelor of Laws - LLB :balance_scale:
+:mortar_board: IT: Web Development :computer: Bachelor of Laws - LLB :balance_scale:
  
  :rocket: I’m looking for opportunities for starting work in tech area, and contributing to the company, and team success. 
 
