@@ -16,8 +16,11 @@
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kamilakaioana/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lin-milla" height="35" width="35" /></a>
+<a href="https://www.linkedin.com/in/kamilakaioana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linkedin/linkedin-original.svg" alt="lin-milla" height="35" width="35" /></a>
+ <a href="https://www.linkedin.com/in/kamilakaioana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/behance/behance-original.svg" alt="be-milla" height="35" width="35" /></a>
 </p>
+
+
 
 
 <!--
