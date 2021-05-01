@@ -37,3 +37,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- final -->
+
+<p align="center">
+
+![kamilakaioana](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilakaioana&theme=highcontrast)
+
+
+</p>
