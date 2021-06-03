@@ -1,7 +1,7 @@
  ### :sunflower: Hello, I'm Kamila 
  <br>
   
- :woman_technologist: I'm Jr UI/UX Design and Jr Front-end web developer
+ :woman_technologist: I'm Front-end developer and UI/UX Design
  
 :mortar_board: IT: Web Development :computer: Bachelor of Laws - LLB :balance_scale:
  
