@@ -11,7 +11,7 @@
 
 :round_pushpin: I'm from Brazil
 
- 🌱 I’m currently learning JS, Java and Kotlin
+ 🌱 I’m currently learning JS, and react native
  
 
 
