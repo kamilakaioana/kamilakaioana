@@ -5,9 +5,7 @@
  
 :mortar_board: IT: Web Development :computer: Bachelor of Laws - LLB :balance_scale:
  
- :rocket: I’m looking for opportunities for starting work in tech area, and contributing to the company, and team success. 
-
-📫 How to reach me: kamilaaleixocosta@hotmail.com 
+ 📫 How to reach me: kamilaaleixocosta@hotmail.com 
 
 :round_pushpin: I'm from Brazil
 
