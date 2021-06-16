@@ -1,7 +1,7 @@
  ### :sunflower: Hello, I'm Mila 
  <br>
   
- :woman_technologist: I'm Front-end developer and UI/UX Design
+ :woman_technologist: I'm Front-end/Mobile developer and UI/UX Design
  
 :mortar_board: IT: Web Development :computer: Bachelor of Laws - LLB :balance_scale:
  
