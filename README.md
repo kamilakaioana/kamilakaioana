@@ -9,7 +9,7 @@
 
 :round_pushpin: I'm from Brazil
 
- 🌱 I’m currently learning JS, and react native
+ 🌱 I’m currently learning Java Script, typescript, and react native
  
 
 
