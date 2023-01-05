@@ -3,7 +3,7 @@
   
  :woman_technologist: I'm Front-end/Mobile developer and UI/UX Design
  
-:mortar_board: IT: Web Development :computer: Bachelor of Laws - LLB :balance_scale:
+:mortar_board: IT: Web Development :computer: Bachelor of Laws - LLB :balance_scale: MBA Software Engineering :computer:
  
  📫 How to reach me: kamilaaleixocosta@hotmail.com 
 
