@@ -9,7 +9,7 @@
 
 :round_pushpin: I'm from Brazil
 
- 🌱 I’m currently learning SwiftUi | Swift
+ 🌱 I’m currently learning SwiftUi | Swift 🍎
  
 
 
