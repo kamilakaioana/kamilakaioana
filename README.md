@@ -11,6 +11,8 @@
 
  🌱 I’m currently learning SwiftUi | Swift 🍎
  
+ ✨ Interests: Machine learning 🤖
+ 
 
 
 <p align="left">
