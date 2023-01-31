@@ -3,11 +3,14 @@
   
  :woman_technologist: I'm Front-end/Mobile developer and UI/UX Design
  
+ 💻 JavaScript | TypeScript | React Native | React Js | 
+ 
 :mortar_board: IT: Web Development :computer: Bachelor of Laws - LLB :balance_scale: MBA Software Engineering :computer:
  
  📫 How to reach me: kamilaaleixocosta@hotmail.com 
 
 :round_pushpin: I'm from Brazil
+
 
  🌱 I’m currently learning SwiftUi | Swift 🍎 | Flutter :iphone:
  
