@@ -11,7 +11,7 @@
 
  🌱 I’m currently learning SwiftUi | Swift 🍎 | Flutter :iphone:
  
- ✨ Interests: Machine learning 🤖
+ ✨ Interests: Machine learning 🤖 | cyber security 🔐
  
 
 
