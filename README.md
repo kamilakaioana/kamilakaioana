@@ -3,18 +3,17 @@
   
  :woman_technologist: I'm Front-end/Mobile developer and UI/UX Design
  
- 💻 JavaScript | TypeScript | React Native | React Js | 
+ 💻 JavaScript | TypeScript | React Js | React Native |
  
-:mortar_board: IT: Web Development :computer: Bachelor of Laws - LLB :balance_scale: MBA Software Engineering :computer:
+:mortar_board: IT: Systems for Internet Technologist :computer: Bachelor of Laws - LLB :balance_scale: MBA Software Engineering :computer:
  
  📫 How to reach me: kamilaaleixocosta@hotmail.com 
 
 :round_pushpin: I'm from Brazil
 
-
- 🌱 I’m currently learning SwiftUi | Swift 🍎 | Flutter :iphone:
+ 🌱 I’m currently learning Devops | CI/CD 
  
- ✨ Interests: Machine learning 🤖 | cyber security 🔐
+ ✨ Interests: IA | Machine learning 🤖 | cyber security 🔐
  
 
 
