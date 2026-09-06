@@ -11,7 +11,7 @@
 
 :round_pushpin: I'm from Brazil
 
- 🌱 I’m currently learning Devops | CI/CD 
+ 🌱 I’m currently studying software architecture. 
  
  ✨ Interests: IA | Machine learning 🤖 | cyber security 🔐
  
