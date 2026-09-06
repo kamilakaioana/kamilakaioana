@@ -3,7 +3,7 @@
   
  :woman_technologist: I'm Front-end/Mobile developer and UI/UX Design
  
- 💻 JavaScript | TypeScript | React Js | React Native |
+ 💻 JavaScript | TypeScript | React Js | React Native | Node js | Nest js
  
 :mortar_board: IT: Systems for Internet Technologist :computer: Bachelor of Laws - LLB :balance_scale: MBA Software Engineering :computer:
  
